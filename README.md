@@ -12,5 +12,5 @@ Authors:
 
 ## Assignments
 
-- [Assignment 1](./assignment1/)
-<!-- - [Assignment 2](./assignment2/) -->
+- [Assignment 1.1](./assignment1_1/)
+- [Assignment 1.2](./assignment1_2/)
