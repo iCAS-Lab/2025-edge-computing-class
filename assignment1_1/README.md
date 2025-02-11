@@ -1,4 +1,4 @@
-# Assignment 1: Convolutional Neural Networks (CNNs)
+# Assignment 1.1: Convolutional Neural Networks (CNNs)
 
 Assignment Author: Peyton Chandarana
 
