@@ -107,7 +107,7 @@ The model adjusts these predefined boxes to fit detected objects.
 
 We will train a simple object detection model for face detection. To accomplish this, you will use the dataset provided in the following Kaggle notebook:
 
-🔗 [Kaggle Notebook Link](https://www.kaggle.com/code/mohammadreza1993/object-detection-for-edge-computing-class/edit)
+🔗 [Kaggle Notebook Link]([https://www.kaggle.com/code/mohammadreza1993/object-detection-for-edge-computing-class/edit](https://www.kaggle.com/code/icaslab/object-detection-for-edge-computing-class/edit)
 
 This notebook also includes code to read the dataset and preprocess the labels for training your model.
 
