@@ -128,6 +128,10 @@ The following link is for the competition:
 
 ONNX (Open Neural Network Exchange) is an open-source format for representing machine learning and deep learning models. It enables interoperability between different frameworks, such as PyTorch, TensorFlow, and ONNX Runtime, allowing seamless model conversion and deployment across various hardware and software environments.
 
+You can see the computational graph of your ONNX model here:
+
+[Netron](https://netron.app/)
+
 ## Key Features of ONNX:
 
 - Framework Interoperability: Enables model conversion between frameworks like PyTorch, TensorFlow, and MXNet.
@@ -161,10 +165,6 @@ ONNX (Open Neural Network Exchange) is an open-source format for representing ma
 # 3. Deployment the model On Jetson Nano
 
 To deploy the model on a Jetson Nano, the ONNX model must be converted to TensorRT format directly on the device. Since this process requires access to the Jetson Nano hardware, you will need to schedule an appointment with the TAs to visit the research lab for deployment.
-
-You can see the computational graph of your ONNX model here:
-
-[Netron](https://netron.app/)
 
 
 # 4. Evaluation!!!
