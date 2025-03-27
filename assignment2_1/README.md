@@ -119,8 +119,11 @@ The dataset contains annotations for multiple faces within a single image. Howev
 Please open the notebook and develop your network for this task.
 
 Happy coding! 🚀
+
 The following link is for the competition:
+
 [Competition on Kaggle](https://www.kaggle.com/t/70b5c8f7c2404ee4925400e68396f2ee)
+
 # 2. Exporting to ONNX
 
 ONNX (Open Neural Network Exchange) is an open-source format for representing machine learning and deep learning models. It enables interoperability between different frameworks, such as PyTorch, TensorFlow, and ONNX Runtime, allowing seamless model conversion and deployment across various hardware and software environments.
