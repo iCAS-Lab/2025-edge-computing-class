@@ -162,6 +162,11 @@ ONNX (Open Neural Network Exchange) is an open-source format for representing ma
 
 To deploy the model on a Jetson Nano, the ONNX model must be converted to TensorRT format directly on the device. Since this process requires access to the Jetson Nano hardware, you will need to schedule an appointment with the TAs to visit the research lab for deployment.
 
+You can see the computational graph of your ONNX model here:
+
+[Netron](https://netron.app/)
+
+
 # 4. Evaluation!!!
 
 In this assignment, two key factors determine the performance of your network: the Intersection over Union (IoU) metric, which evaluates the accuracy of your model, and latency, which is crucial for real-time systems. An effective model should achieve a high IoU while maintaining low latency on the Jetson Nano. Be mindful not to use an excessively large model, as it will significantly impact latency, making real-time deployment infeasible.
