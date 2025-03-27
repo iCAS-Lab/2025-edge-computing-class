@@ -154,7 +154,7 @@ ONNX (Open Neural Network Exchange) is an open-source format for representing ma
 
 4. Deploy the model on different hardware platforms.
 
-# 3. Deploment the model On Jetson Nano
+# 3. Deployment the model On Jetson Nano
 
 To deploy the model on a Jetson Nano, the ONNX model must be converted to TensorRT format directly on the device. Since this process requires access to the Jetson Nano hardware, you will need to schedule an appointment with the TAs to visit the research lab for deployment.
 
@@ -169,3 +169,4 @@ You will have three assignment deliverables to submit:
 1. A report summarizing your approach to the assignment including your network's architecture, the optimizations/changes you made to the network, and any challenges you faced in creating the network.
 2. Your code that achieves the minimum mAP of **_TODO_**.
 3. At least one submission to the competition.
+4. ONNX format of your model (is needed for the deployment on the Jetson Nano board)
