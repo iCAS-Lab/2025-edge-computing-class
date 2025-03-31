@@ -176,6 +176,6 @@ In this assignment, two key factors determine the performance of your network: t
 You will have three assignment deliverables to submit:
 
 1. A report summarizing your approach to the assignment including your network's architecture, the optimizations/changes you made to the network, and any challenges you faced in creating the network.
-2. Your code that achieves the minimum mAP of **_TODO_**.
+2. Your code that achieves the minimum mAP of **30%**.
 3. At least one submission to the competition.
 4. ONNX format of your model (is needed for the deployment on the Jetson Nano board)
