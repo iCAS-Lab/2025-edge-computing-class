@@ -1,0 +1,13 @@
+name: assignment3
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - python=3.12
+  - pip=25.0.1
+  - pip:
+      - opencv-python
