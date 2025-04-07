@@ -122,7 +122,7 @@ Happy coding! 🚀
 
 The following link is for the competition:
 
-[Competition on Kaggle](https://www.kaggle.com/t/70b5c8f7c2404ee4925400e68396f2ee)
+[Competition on Kaggle](https://www.kaggle.com/t/2c261ebf5ce241fcba3acc1aaae71026)
 
 # 2. Exporting to ONNX
 
