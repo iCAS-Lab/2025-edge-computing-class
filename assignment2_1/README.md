@@ -183,7 +183,7 @@ You will have three assignment deliverables to submit:
 
 # 5. Leaderboard for Latency
 
-| Name           | Latency       |
+| Name           | Latency (ms)   |
 |----------------|----------------|
 | Musa           | 7.2            |
 | Mark           | 12.9           |
