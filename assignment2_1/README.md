@@ -179,3 +179,22 @@ You will have three assignment deliverables to submit:
 2. Your code that achieves the minimum mAP of **30%**.
 3. At least one submission to the competition.
 4. ONNX format of your model (is needed for the deployment on the Jetson Nano board)
+5. 
+
+# 5. Leaderboard for Latency
+
+| Name           | Latency       |
+|----------------|----------------|
+| Musa           | 7.2            |
+| Mark           | 12.9           |
+| Andy           | 13.9           |
+| Rasoul         | 14.5           |
+| Nayeem         | 14.8           |
+| Regan          | 14.9           |
+| Matthew        | 15.3           |
+| Mostafa        | 15.5           |
+| Micholas       | 16.1           |
+| Savanah        | 21.6           |
+| Grant          | 24             |
+| Nitin          | 51.4           |
+
