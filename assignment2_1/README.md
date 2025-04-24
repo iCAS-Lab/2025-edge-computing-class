@@ -199,4 +199,6 @@ You will have three assignment deliverables to submit:
 | Nitin          | 51.4           |
 
 One day delay
+| Name           | Latency (ms)   |
+|----------------|----------------|
 | Muhammad           | ??         |
