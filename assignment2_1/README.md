@@ -198,7 +198,19 @@ You will have three assignment deliverables to submit:
 | Grant          | 24             |
 | Nitin          | 51.4           |
 
-One day delay
+One-day delay
 | Name           | Latency (ms)   |
 |----------------|----------------|
 | Muhammad           | ??         |
+
+Two-day delay
+| Name           | Latency (ms)   |
+|----------------|----------------|
+| Qi Wei         | ??             |
+|Ziyu            | ??             |
+
+More than Two-day delay
+
+| Name           | Latency (ms)   |
+|----------------|----------------|
+| JiaRong        | ??             |
